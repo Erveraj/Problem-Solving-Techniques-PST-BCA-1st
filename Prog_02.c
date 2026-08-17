@@ -1,3 +1,4 @@
+// Program no 1: WRITE A PROGRAM to add two numbers. 
 #include<stdio.h>
 int main(){
     //Method no 1 Without using scanf() function.
