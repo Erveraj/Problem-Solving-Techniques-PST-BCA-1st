@@ -3,5 +3,6 @@
 int main(){
     printf("Hello World");
     printf("\nHii my name is C Programming Language");
+    printf("\nThank You");
     return 0;
 }
