@@ -2,4 +2,6 @@
 #include<stdio.h>
 int main(){
     printf("Hello World");
+    printf("\nHii my name is C Programming Language");
+    return 0;
 }
