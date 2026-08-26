@@ -1,4 +1,4 @@
-//WRITE A PROGRAM to calculate the average of three real numbers. 
+//Program No 04: WRITE A PROGRAM to calculate the average of three real numbers. 
 
 #include <stdio.h>
 
