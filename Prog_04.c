@@ -1,3 +1,5 @@
+//WRITE A PROGRAM to calculate the average of three real numbers. 
+
 #include <stdio.h>
 
 int main()
