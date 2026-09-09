@@ -7,6 +7,8 @@
     printf("3. Size of double\n");
     printf("4. Size of char\n");
     printf("=================================================\n");
+   
+   
     int choice;
     scanf("%d", &choice);
     switch(choice){
