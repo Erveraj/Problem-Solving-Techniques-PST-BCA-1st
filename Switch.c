@@ -23,5 +23,4 @@
             printf("Size of char = %zu byte\n", sizeof(char));
     }
     printf("=================================================\n");
-}
-    
+}    
